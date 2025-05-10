@@ -2,7 +2,7 @@ A full-featured real-time chat application built with the MERN stack, offering i
 
 # ✨ Full Stack Realtime Chat App ✨
 
-🚀 **Live Demo:** [https://your-deployment-link.com](https://your-deployment-link.com)
+🚀 **Live Demo:** [https://chat-app-o31d.onrender.com](https://chat-app-o31d.onrender.com)
 
 Highlights:
 
