@@ -1,6 +1,9 @@
 A full-featured real-time chat application built with the MERN stack, offering instant messaging, online presence, and media sharing — all styled with TailwindCSS and DaisyUI.
 
 # ✨ Full Stack Realtime Chat App ✨
+
+🚀 **Live Demo:** [https://your-deployment-link.com](https://your-deployment-link.com)
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
@@ -9,7 +12,7 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ Deploy like a pro — for FREE!
+- ⭐ Deployed like a pro — for FREE!
 - ⏳ And much more!
 
 ### Setup .env file
